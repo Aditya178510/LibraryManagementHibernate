@@ -131,7 +131,8 @@ Add this to your `pom.xml`:
 ## 👨‍💻 Developer Info
 
 - Name: Aditya Gundla
-Team member name: Samarth Kadam
+
+-Team member name: Samarth Kadam
 - Email:adityagundla08@gmail.com.com
 - GitHub: Aditya178510
 
